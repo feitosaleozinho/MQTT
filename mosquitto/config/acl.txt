@@ -1,0 +1,2 @@
+user leo
+topic readwrite sensor/#

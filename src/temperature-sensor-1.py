@@ -10,6 +10,8 @@ TOPIC       = os.getenv("TOPIC", "sensor/temperature")
 INTERVAL    = float(os.getenv("INTERVAL_SECONDS", "5"))
 QOS         = int(os.getenv("QOS", "0"))
 RETAIN      = os.getenv("RETAIN", "false").lower() == "true"
+MQTT_USER   = os.getenv("MQTT_USER", "leo")
+MQTT_PASS   = os.getenv("MQTT_PASS", "Senai@134")  
 
 def generate_temperature():
     value = getattr(generate_temperature, "_val", 22.0)
@@ -26,6 +28,10 @@ def on_disconnect(client, userdata, rc, properties=None):
 
 def main():
     client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
+    
+    # AUTENTICAÇÃO
+    client.username_pw_set(MQTT_USER, MQTT_PASS)
+    
     client.on_connect = on_connect
     client.on_disconnect = on_disconnect
     client.reconnect_delay_set(min_delay=1, max_delay=30)
@@ -53,3 +59,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

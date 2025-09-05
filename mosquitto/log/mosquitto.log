@@ -1,0 +1,169 @@
+1757026827: mosquitto version 2.0.20 starting
+1757026827: Config loaded from /mosquitto/config/mosquitto.conf.
+1757026827: Opening ipv4 listen socket on port 1883.
+1757026827: mosquitto version 2.0.20 running
+1757026828: New connection from 172.18.0.3:51082 on port 1883.
+1757026828: Client auto-4422CCD8-3469-9794-AF7D-C6120C2D08CE disconnected, not authorised.
+1757026828: New connection from 172.18.0.4:49983 on port 1883.
+1757026828: Client auto-5B8F2644-18A0-DC2F-2E4D-2617A26D870E disconnected, not authorised.
+1757026828: New connection from 172.18.0.3:53648 on port 1883.
+1757026828: Client auto-3F415668-3F0B-1307-8BD6-81D8AE238D90 disconnected, not authorised.
+1757026828: New connection from 172.18.0.4:43291 on port 1883.
+1757026828: Client auto-1AB0BD27-35BD-A4CF-54A6-BC1816E36C24 disconnected, not authorised.
+1757026828: New connection from 172.18.0.3:53652 on port 1883.
+1757026828: Client auto-1093A722-28CB-9654-C2E2-75968097725C disconnected, not authorised.
+1757026829: New connection from 172.18.0.3:53656 on port 1883.
+1757026829: Client auto-82965421-B6D7-1750-9058-875EB9E75419 disconnected, not authorised.
+1757026830: New connection from 172.18.0.3:53662 on port 1883.
+1757026830: Client auto-6DB410F0-E12D-39E2-4502-A3E334AF40A9 disconnected, not authorised.
+1757026832: New connection from 172.18.0.3:53668 on port 1883.
+1757026832: Client auto-B6F010BD-65DF-7536-1CCF-19CC18056FA3 disconnected, not authorised.
+1757026835: New connection from 172.18.0.3:53670 on port 1883.
+1757026835: Client auto-145B7E53-9600-4D26-4415-D26C4D9D5F7F disconnected, not authorised.
+1757026840: New connection from 172.16.39.45:52497 on port 1883.
+1757026840: New client connected from 172.16.39.45:52497 as mqtt-explorer-b31e4a15 (p2, c1, k60, u'leo').
+1757026841: New connection from 172.18.0.3:48560 on port 1883.
+1757026841: Client auto-251FEB5B-B73B-D54B-6281-442EF1F085AE disconnected, not authorised.
+1757026854: New connection from 172.18.0.3:53384 on port 1883.
+1757026854: Client auto-E8DA5FF4-4B2E-0363-3E49-22D3EE8303AC disconnected, not authorised.
+1757026880: New connection from 172.18.0.3:45894 on port 1883.
+1757026880: Client auto-BC1E428C-8FAA-4B50-96F8-F1A875364F72 disconnected, not authorised.
+1757026932: New connection from 172.18.0.3:41904 on port 1883.
+1757026932: Client auto-8F65393A-6A64-4511-9E0F-E4A8484E5A40 disconnected, not authorised.
+1757026992: New connection from 172.18.0.3:60396 on port 1883.
+1757026992: Client auto-20DA4D5A-8F9B-5627-3B22-C9435924547E disconnected, not authorised.
+1757027052: New connection from 172.18.0.3:37698 on port 1883.
+1757027052: Client auto-4AE9D2B0-7ACF-E13C-64E6-14A3F863D774 disconnected, not authorised.
+1757027112: New connection from 172.18.0.3:55552 on port 1883.
+1757027112: Client auto-6CEDF01F-E630-A43F-FBD3-2B48BE912F31 disconnected, not authorised.
+1757027172: New connection from 172.18.0.3:54916 on port 1883.
+1757027172: Client auto-84B048B1-57F3-AA5D-FEE7-7A3C1844C3B9 disconnected, not authorised.
+1757027232: New connection from 172.18.0.3:35486 on port 1883.
+1757027232: Client auto-CC4438AE-BD66-BCDC-E29A-3A4487313BB3 disconnected, not authorised.
+1757027293: New connection from 172.18.0.3:40888 on port 1883.
+1757027293: Client auto-931AF3B8-66B5-1044-6DED-4B16F7D15D9B disconnected, not authorised.
+1757027337: mosquitto version 2.0.20 terminating
+1757027337: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1757027358: mosquitto version 2.0.20 starting
+1757027358: Config loaded from /mosquitto/config/mosquitto.conf.
+1757027358: Opening ipv4 listen socket on port 1883.
+1757027358: mosquitto version 2.0.20 running
+1757027358: New connection from 172.18.0.3:53490 on port 1883.
+1757027358: New client connected from 172.18.0.3:53490 as auto-D05EF673-45E0-9D89-055C-E308057A4CFC (p2, c1, k60, u'leo').
+1757027358: New connection from 172.18.0.4:34001 on port 1883.
+1757027358: Client auto-2D1E998F-E1BE-E2D3-347B-12B5EA487685 disconnected, not authorised.
+1757027779: Client auto-D05EF673-45E0-9D89-055C-E308057A4CFC disconnected.
+1757027798: mosquitto version 2.0.20 terminating
+1757027798: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1757027810: mosquitto version 2.0.20 starting
+1757027810: Config loaded from /mosquitto/config/mosquitto.conf.
+1757027810: Opening ipv4 listen socket on port 1883.
+1757027810: mosquitto version 2.0.20 running
+1757027810: New connection from 172.18.0.3:52464 on port 1883.
+1757027810: New client connected from 172.18.0.3:52464 as auto-2FACD893-CDEF-4BC1-015B-3C0317189FAE (p2, c1, k60, u'leo').
+1757027810: New connection from 172.18.0.4:49665 on port 1883.
+1757027810: Client auto-6DC84956-16FA-C8F4-FF57-0E263E8AE5FF disconnected, not authorised.
+1757028104: mosquitto version 2.0.20 terminating
+1757028104: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1757031374: mosquitto version 2.0.20 starting
+1757031374: Config loaded from /mosquitto/config/mosquitto.conf.
+1757031374: Opening ipv4 listen socket on port 1883.
+1757031374: mosquitto version 2.0.20 running
+1757031374: New connection from 172.18.0.3:50439 on port 1883.
+1757031374: Client auto-4C69D07C-865D-671F-DD9E-2210CED8459F disconnected, not authorised.
+1757031418: New connection from 172.16.39.45:50233 on port 1883.
+1757031418: New client connected from 172.16.39.45:50233 as mqtt-explorer-b31e4a15 (p2, c1, k60, u'leo').
+1757031431: Client mqtt-explorer-b31e4a15 disconnected.
+1757031517: mosquitto version 2.0.20 terminating
+1757031517: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1757031524: mosquitto version 2.0.20 starting
+1757031524: Config loaded from /mosquitto/config/mosquitto.conf.
+1757031524: Opening ipv4 listen socket on port 1883.
+1757031524: mosquitto version 2.0.20 running
+1757031524: New connection from 172.19.0.4:42118 on port 1883.
+1757031524: New client connected from 172.19.0.4:42118 as auto-C4200BE9-82B9-F4CC-2D51-DBF2ADB567AB (p2, c1, k60, u'leo').
+1757031525: New connection from 172.19.0.3:44107 on port 1883.
+1757031525: Client auto-B2812818-58C3-5132-A54B-D1B81B3BDB16 disconnected, not authorised.
+1757031542: New connection from 172.16.39.45:64850 on port 1883.
+1757031542: New client connected from 172.16.39.45:64850 as mqtt-explorer-b31e4a15 (p2, c1, k60, u'leo').
+1757031583: Client auto-C4200BE9-82B9-F4CC-2D51-DBF2ADB567AB disconnected.
+1757031593: mosquitto version 2.0.20 terminating
+1757031593: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1757031604: mosquitto version 2.0.20 starting
+1757031604: Config loaded from /mosquitto/config/mosquitto.conf.
+1757031604: Opening ipv4 listen socket on port 1883.
+1757031604: mosquitto version 2.0.20 running
+1757031605: New connection from 172.19.0.4:59576 on port 1883.
+1757031605: New client connected from 172.19.0.4:59576 as auto-86BAE633-6099-435A-793A-4317A749FC9C (p2, c1, k60, u'leo').
+1757031605: New connection from 172.19.0.3:55613 on port 1883.
+1757031605: Client auto-4C50EA8D-F6C0-3ED2-6351-ACE983B15EB0 disconnected, not authorised.
+1757031625: Client auto-86BAE633-6099-435A-793A-4317A749FC9C disconnected.
+1757032381: mosquitto version 2.0.20 starting
+1757032381: Config loaded from /mosquitto/config/mosquitto.conf.
+1757032381: Opening ipv4 listen socket on port 1883.
+1757032381: mosquitto version 2.0.20 running
+1757032381: New connection from 172.19.0.4:56508 on port 1883.
+1757032381: New client connected from 172.19.0.4:56508 as auto-4FAC4E46-830A-ADCF-17CA-D861E5781404 (p2, c1, k60, u'leo').
+1757032381: New connection from 172.19.0.3:34049 on port 1883.
+1757032381: New client connected from 172.19.0.3:34049 as auto-5E8F352A-F54E-1391-1653-38C91262582D (p2, c1, k30, u'leo').
+1757032418: Client auto-4FAC4E46-830A-ADCF-17CA-D861E5781404 disconnected.
+1757032421: Client auto-5E8F352A-F54E-1391-1653-38C91262582D disconnected.
+1757032422: mosquitto version 2.0.20 terminating
+1757032422: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1757032436: mosquitto version 2.0.20 starting
+1757032436: Config loaded from /mosquitto/config/mosquitto.conf.
+1757032436: Opening ipv4 listen socket on port 1883.
+1757032436: mosquitto version 2.0.20 running
+1757032436: New connection from 172.19.0.4:39304 on port 1883.
+1757032436: New client connected from 172.19.0.4:39304 as auto-B5DE0513-1413-213B-AF72-EEFF98076376 (p2, c1, k60, u'leo').
+1757032436: New connection from 172.19.0.3:54159 on port 1883.
+1757032436: New client connected from 172.19.0.3:54159 as auto-C7663538-308A-0374-D11D-A4043F811670 (p2, c1, k30, u'leo').
+1757032513: New connection from 172.16.39.45:57517 on port 1883.
+1757032513: New client connected from 172.16.39.45:57517 as mqtt-explorer-b31e4a15 (p2, c1, k60, u'leo').
+1757033328: Client auto-B5DE0513-1413-213B-AF72-EEFF98076376 disconnected.
+1757033331: Client auto-C7663538-308A-0374-D11D-A4043F811670 disconnected.
+1757033331: mosquitto version 2.0.20 terminating
+1757033331: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1757033349: mosquitto version 2.0.20 starting
+1757033349: Config loaded from /mosquitto/config/mosquitto.conf.
+1757033349: Warning: File /mosquitto/config/acl.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.txt`.
+1757033349: Opening ipv4 listen socket on port 1883.
+1757033349: mosquitto version 2.0.20 running
+1757033349: New connection from 172.19.0.3:51414 on port 1883.
+1757033349: New client connected from 172.19.0.3:51414 as auto-313E0F7B-205B-F90D-B67F-3D3A154E9558 (p2, c1, k60, u'leo').
+1757033349: New connection from 172.19.0.4:60855 on port 1883.
+1757033349: New client connected from 172.19.0.4:60855 as auto-6C0C550F-382F-33B5-0BE3-B9672D31CEAB (p2, c1, k30, u'leo').
+1757033362: New connection from 172.16.39.45:52781 on port 1883.
+1757033362: New client connected from 172.16.39.45:52781 as mqtt-explorer-b31e4a15 (p2, c1, k60, u'leo').
+1757033373: Client mqtt-explorer-b31e4a15 disconnected.
+1757033412: New connection from 172.16.39.45:52786 on port 1883.
+1757033412: New client connected from 172.16.39.45:52786 as mqtt-explorer-b31e4a15 (p2, c1, k60, u'leo').
+1757033419: Client mqtt-explorer-b31e4a15 disconnected.
+1757033445: New connection from 172.16.39.45:52790 on port 1883.
+1757033445: New client connected from 172.16.39.45:52790 as mqtt-explorer-b31e4a15 (p2, c1, k60, u'leo').
+1757033453: Client mqtt-explorer-b31e4a15 disconnected.
+1757033540: Client auto-313E0F7B-205B-F90D-B67F-3D3A154E9558 disconnected.
+1757033544: Client auto-6C0C550F-382F-33B5-0BE3-B9672D31CEAB disconnected.
+1757033544: mosquitto version 2.0.20 terminating
+1757033544: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1757033561: mosquitto version 2.0.20 starting
+1757033561: Config loaded from /mosquitto/config/mosquitto.conf.
+1757033561: Warning: File /mosquitto/config/acl.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl.txt`.
+1757033561: Opening ipv4 listen socket on port 1883.
+1757033561: mosquitto version 2.0.20 running
+1757033561: New connection from 172.19.0.3:58016 on port 1883.
+1757033561: New client connected from 172.19.0.3:58016 as auto-037DAE84-14B5-11AB-02A2-B6ED4885899F (p2, c1, k60, u'leo').
+1757033561: New connection from 172.19.0.4:43545 on port 1883.
+1757033561: New client connected from 172.19.0.4:43545 as auto-B60C6308-C07A-3D93-02A6-5687DAFA425E (p2, c1, k30, u'leo').
+1757033606: New connection from 172.16.39.45:53685 on port 1883.
+1757033606: New client connected from 172.16.39.45:53685 as mqtt-explorer-b31e4a15 (p2, c1, k60, u'leo').
+1757033611: Client mqtt-explorer-b31e4a15 disconnected.
+1757033654: New connection from 172.16.39.45:54901 on port 1883.
+1757033654: Client mqtt-explorer-b31e4a15 disconnected, not authorised.
+1757033662: New connection from 172.16.39.45:54903 on port 1883.
+1757033662: Client mqtt-explorer-b31e4a15 disconnected, not authorised.
+1757033685: New connection from 172.16.39.45:54907 on port 1883.
+1757033685: New client connected from 172.16.39.45:54907 as mqtt-explorer-b31e4a15 (p2, c1, k60, u'leo').
+1757033691: Client mqtt-explorer-b31e4a15 disconnected.
