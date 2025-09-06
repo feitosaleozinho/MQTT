@@ -28,6 +28,7 @@ Primeiramente foi adicionado atenticação, foi criado um arquivo para armazanar
 e no docker compose também foi refenciado um comando para logar direto, fixando com comando com a senha e o usuário já, para roda é só usar os comandos abaixo:
 
 docker compose up -d --build
+<br>
 docker compose logs -f mqtt-subscriber
 
 
