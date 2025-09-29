@@ -32,6 +32,6 @@ docker compose up -d --build
 docker compose logs -f mqtt-subscriber
 
 
-E depois foi adicionado acl, da mesma forma, foi cirado um arquivo e depois referenciado no arquivo de configuração do mosquitto, assim permitindo que o usuario "leo" tem permissão para ler e escrever em todos os sensores.
+E depois foi adicionado acl, da mesma forma, foi criado um arquivo e depois referenciado no arquivo de configuração do mosquitto, assim permitindo que o usuario "leo" possua permissão para ler e escrever em todos os sensores.
  
 
