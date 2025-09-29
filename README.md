@@ -25,7 +25,7 @@ O que foi feito:
 - Adicionado acl
 
 Primeiramente foi adicionado atenticação, foi criado um arquivo para armazanar um usuário e senha (mosquitto/config/password.txt), logo depois na configuração do arquivo do mosquitto, foi desabilitado "allow_anonymous_true",
-e no docker compose também foi refenciado um comando para logar direto, fixando com comando com a senha e o usuário já, para roda é só usar os comandos abaixo:
+e no docker compose também foi refenciado um comando para logar direto, fixando com comando com a senha e o usuário já, para executar é só usar os comandos abaixo:
 
 docker compose up -d --build
 <br>
